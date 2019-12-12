@@ -1,2 +1,1 @@
-# datascience
-Atul's Data Science Repository
+# Atul's Data Science Repository
