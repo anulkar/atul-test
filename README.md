@@ -2,4 +2,4 @@
 
 ## Homework 1 - Excel Challenge
 
-Solution files posted to: https://github.com/anulkar/datascience/tree/master/excel-challenge
+Solution files are posted [here](https://github.com/anulkar/datascience/tree/master/excel-challenge)
